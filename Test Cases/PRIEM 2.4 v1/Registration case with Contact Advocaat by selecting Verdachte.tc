@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration case with Contact Advocaat by selecting Verdachte</name>
+   <tag></tag>
+   <comment>We need to change xpath Parketnummer every time</comment>
+   <testCaseGuid>a74b5884-c88b-43ae-8260-16ddba244ea4</testCaseGuid>
+</TestCaseEntity>
